@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenPowerMonitor.App", "GreenPowerMonitor.App\GreenPowerMonitor.App.csproj", "{A5A44718-752B-4E5B-860A-0990288B808C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenPowerMonitor.Library", "GreenPowerMonitor.Library\GreenPowerMonitor.Library.csproj", "{D96C1FED-D140-45AE-8DC1-CB6E33E88BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5A44718-752B-4E5B-860A-0990288B808C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5A44718-752B-4E5B-860A-0990288B808C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5A44718-752B-4E5B-860A-0990288B808C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5A44718-752B-4E5B-860A-0990288B808C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96C1FED-D140-45AE-8DC1-CB6E33E88BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96C1FED-D140-45AE-8DC1-CB6E33E88BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96C1FED-D140-45AE-8DC1-CB6E33E88BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96C1FED-D140-45AE-8DC1-CB6E33E88BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84CECF7E-AD78-4B2E-860B-08F5E688968B}
+	EndGlobalSection
+EndGlobal
